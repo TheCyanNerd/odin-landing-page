@@ -184,6 +184,15 @@ body {
     align-items: center;
 }
 
+.action-paragraph {
+    color: white;
+}
+
+.action-header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
 #action-signup {
     border: 2px solid white;
 }
