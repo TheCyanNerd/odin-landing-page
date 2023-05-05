@@ -1,1 +1,2 @@
 # odin-landing-page
+Assignment for The Odin Project Foundations course. The task was to create a webpage from scratch to follow a design given as an image file. To accomplish this, Flexbox was used for arranging the layout and CSS was used for styling. HTML was used to fill in the page's content.
