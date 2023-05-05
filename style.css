@@ -7,6 +7,7 @@ body {
     background-color: #1F2937;
 }
 
+
 .header {
     padding: 15px;
     display: flex;
@@ -20,8 +21,9 @@ body {
     color: #F9FAF8;
 }
 
+.header-links,
 .hero-secondary,
-.header-links {
+.img-text {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -34,14 +36,11 @@ body {
     gap: 20px;
 }
 
+
 .hero-content {
     display: flex;
     justify-content: space-around;
     padding: 15px;
-}
-
-.hero-text {
-    width: 65%;
 }
 
 .hero-main {
@@ -56,4 +55,14 @@ body {
     font-size: 12px;
     font-weight: 600;
     padding: 6px 20px;
+}
+
+.hero-img {
+    background-color: rgb(117, 120, 121);
+    width: 50%;
+    flex: 1 0 auto;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
