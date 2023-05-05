@@ -34,6 +34,16 @@ body {
     gap: 20px;
 }
 
+.hero-content {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.hero-text {
+    width: 65%;
+}
+
 .hero-main {
     font-size: 48px;
     font-weight: bolder;
