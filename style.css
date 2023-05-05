@@ -81,6 +81,11 @@ body {
 
 .card {
     width: 150px;
+    text-align: center;
+}
+
+.card-text {
+    color: rgb(117, 120, 121);
 }
 
 .card-img {
