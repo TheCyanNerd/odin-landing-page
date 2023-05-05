@@ -2,6 +2,10 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .hero,
 .footer {
     background-color: #1F2937;
