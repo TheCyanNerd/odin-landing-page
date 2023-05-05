@@ -78,6 +78,10 @@ body {
     color: #1F2937;
 }
 
+.card-container {
+    display: flex;
+    gap: 40px;
+}
 
 .card {
     width: 150px;
@@ -86,6 +90,7 @@ body {
 
 .card-text {
     color: rgb(117, 120, 121);
+    margin-top: 10px;
 }
 
 .card-img {
