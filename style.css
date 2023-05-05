@@ -4,11 +4,18 @@ body {
 
 ul {
     list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
 }
 
 .hero,
 .footer {
     background-color: #1F2937;
+}
+
+.header {
+    display: flex;
 }
 
 .logo {
