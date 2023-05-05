@@ -132,6 +132,15 @@ body {
 
 .quote {
     background-color: #E5E7EB;
+    padding: 120px;
+}
+
+.quote-content {
+    width: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .quote-text {
@@ -139,4 +148,15 @@ body {
     font-weight: light;
     font-style: italic;
     color: #1F2937;
+
+    padding: 5px;
+    align-self: center;
+}
+
+.quote-author {
+    color:rgb(32, 32, 33);
+    font-size: 18px;
+
+    margin: -10px 0;
+    align-self: flex-end;
 }
