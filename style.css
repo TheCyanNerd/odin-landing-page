@@ -39,3 +39,11 @@ body {
     font-weight: bolder;
     color: #F9FAF8;
 }
+
+.signup {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 6px 20px;
+}
