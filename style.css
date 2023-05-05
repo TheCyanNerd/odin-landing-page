@@ -196,3 +196,16 @@ body {
 #action-signup {
     border: 2px solid white;
 }
+
+
+
+.footer {
+    height: 90px;
+    width: auto;
+    justify-content: center;
+}
+
+.footer-text {
+    color: white;
+    text-align: center;
+}
